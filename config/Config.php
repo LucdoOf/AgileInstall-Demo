@@ -1,6 +1,6 @@
 <?php
 
-namespace AgileInstall\Core;
+namespace AgileInstall;
 
 use AgileCore\Core\AbstractConfig;
 
